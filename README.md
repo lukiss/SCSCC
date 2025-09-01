@@ -15,7 +15,7 @@ Celebrating all the ruckus accomplishable with SuperCollider in 256 characters o
 ### Resources 
 * [Some starting tips for shaving your code by Schemawound](https://schemawound.com/2012/06/23/supercollider-tweets-background-tips/)
 * The Legendary [SC140 Compilation/Album](https://supercollider.github.io/sc-140) from 2009[^1]
-
+* When out of inspiration run ```SCDoc.documents.choose.path.help``` and try to do something with whatever shows up as an exercise .
 * and more to come
 
 
