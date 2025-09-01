@@ -1,5 +1,3 @@
-e# SuperColliderSizeCodingClub SCSCC
-
 # SuperColliderSizeCodingClub SCSCC
 
 ### Hello, World!
