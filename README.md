@@ -14,3 +14,4 @@ Celebrating all the ruckus accomplishable with SuperCollider in 256 characters o
 
 * No SC3Plugins, it should run on a vanilla SuperCollider with default settings.
 * If the numWireBufs or blockSize of the server needs to be altered it should be set in the program.
+* If you can improve on the code, please do!
