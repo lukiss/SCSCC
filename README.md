@@ -1,5 +1,7 @@
 
 <img width="219" height="219" alt="workinghard" src="https://github.com/user-attachments/assets/b7e7671f-72df-4152-a8f1-1dd948d8c890" />
+<img width="424" height="350" alt="Skärmavbild 2025-11-02 kl  14 56 57" src="https://github.com/user-attachments/assets/364ca8dc-fee8-4ff9-a4c0-0107a62b8ca2" />
+
 
 # SuperColliderSizeCodingClub SCSCC
 
