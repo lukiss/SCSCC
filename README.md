@@ -1,6 +1,7 @@
 
 <img width="219" height="219" alt="workinghard" src="https://github.com/user-attachments/assets/b7e7671f-72df-4152-a8f1-1dd948d8c890" />
 
+
 # SuperColliderSizeCodingClub SCSCC
 
 ### Hello, World!
