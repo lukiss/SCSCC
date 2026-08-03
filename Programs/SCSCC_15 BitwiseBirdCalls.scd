@@ -1,7 +1,22 @@
-// SCSCC-15 "Bitwise Bird Calls" 99 bytes
+// SCSCC-15 "Bitwise Bird Calls" 93 bytes
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+play{r=ar(TRand,1,255,Dust ar:2);ar(Saw,13*b=((t=Sweep.ar*r.sin*999%r)&r)|(t>>r))*(b>66)/3!2}
+
+
+
+
+// SCSCC-15 "Bitwise Bird Calls" 99 bytes
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 play{r=ar(TRand,0,256,Dust ar:1);1/3*ar(LFCub,33*b=((t=Sweep.ar*(r).sin*1e3%r)&r)|(t>>r))*(b>48)!2}
+
+
+
+
+
+
+
+
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Background…
